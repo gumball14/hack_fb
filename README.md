@@ -1,5 +1,5 @@
 # hack fb anti checkpoint
-####cara memasang\n
+####cara memasang<br>
 $ pkg install python
 $ pkg install git
 $ pip install mechanize
